@@ -1,1 +1,1 @@
-sample file good.java
+sample file good1.java
